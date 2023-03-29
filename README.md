@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=False&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raiaiaia&bg_color=0d1117&color=D8BFD8&line=D8BFD8&point=D8BFD8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
